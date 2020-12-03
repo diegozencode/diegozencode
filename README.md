@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+### Stats
+
+![diegozencode](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=diegozencode&skills=JavaScript,php,python,c,css,html,json&show-other-skills=true)
+
+### Social
+
+[Twitter](https://twitter.com/diegozencode) · [LinkedIn](https://www.linkedin.com/in/diegozencode)
