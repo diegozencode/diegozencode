@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 ---
 
+### Sumary
+
+![sumary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=diegozencode&show-header=false)
+
+---
+
 ### Stats
 
 ![diegozencode](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=diegozencode&skills=JavaScript,php,python,c,css,html,json&show-other-skills=true)
