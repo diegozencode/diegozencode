@@ -12,13 +12,7 @@ My name is Diego Monroy and I enjoy working as a Front End Developer, I'm from C
 
 ---
 
-## Blog:pencil:
-
-Apart from coding, I also maintain a blog, you can find it at [<img src="https://img.shields.io/badge/under_construction-FF6900.svg?&style=plastic"/>](https://diegozencode.github.io) as well as on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://profile.codersrank.io/user/diegozencode)
-
----
-
-## Technologies & Tools
+## Technologies & Tools:computer:
 
 ![HTML5](https://img.shields.io/badge/≡-HTML5-E34F26?&style=flat-square&logo=html5&labelColor=282828)
 ![Git](https://img.shields.io/badge/≡-Git-F05032?logo=git&style=flat-square&labelColor=282828)
@@ -35,7 +29,13 @@ Apart from coding, I also maintain a blog, you can find it at [<img src="https:/
 
 ---
 
-## Github Stats:computer:
+## Blog:pencil:
+
+Apart from coding, I also maintain a blog, you can find it at [<img src="https://img.shields.io/badge/under_construction-FF6900.svg?&style=plastic"/>](https://diegozencode.github.io) as well as on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://profile.codersrank.io/user/diegozencode)
+
+---
+
+## Github Stats:chart_with_upwards_trend:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegozencode&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" alt="Diego's Github Top Languages"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegozencode&show_icons=true&hide=stars&line_height=27&count_private=true&title_color=20d6fe&text_color=c9cacc&icon_color=20d6fe&bg_color=1d1f21&hide_border=true&include_all_commits=true" alt="Diego's GitHub Stats" />
 
