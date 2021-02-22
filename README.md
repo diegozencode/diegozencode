@@ -31,7 +31,7 @@ My name is Diego Monroy and I enjoy working as a Front End Developer, I'm from C
 
 ## Blog:pencil:
 
-Apart from coding, I also maintain a blog, you can find it at [<img src="https://img.shields.io/badge/under_construction-FF6900.svg?&style=plastic"/>](https://diegozencode.github.io) as well as on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://profile.codersrank.io/user/diegozencode)
+Apart from coding, I also maintain a blog, you can find it at [<img src="https://img.shields.io/badge/under_construction-FF6900.svg?&style=plastic"/>](https://diegozencode.github.io) as well as on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@diegozencode)
 
 ---
 
