@@ -33,13 +33,14 @@ My name is Diego Monroy and I work as a Web Developer, I'm from Colombia and I'm
 
 ## Blog:pencil:
 
-Apart from coding, I also maintain a blog, you can find it at [<img src="https://img.shields.io/badge/under_construction-FF6900.svg?&style=plastic"/>](https://diegozencode.github.io) as well as on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@diegozencode)
+Apart from coding, I also maintain a blog, you can find it here [<img src="https://img.shields.io/badge/:newspaper:Blog-30d0ff.svg?&style=plastic"/>](https://diegozencode.me/blog/) as well as on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@diegozencode)
 
 ---
 
 ## Github Stats:chart_with_upwards_trend:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegozencode&langs_count=8&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" alt="Diego's Github Top Languages"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegozencode&show_icons=true&hide=stars&line_height=27&count_private=true&title_color=20d6fe&text_color=c9cacc&icon_color=20d6fe&bg_color=1d1f21&hide_border=true&include_all_commits=true" alt="Diego's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegozencode&langs_count=5&title_color=ffffff&text_color=c9cacc&card_width=250&icon_color=2bbc8a&bg_color=DEG,000000,1d1f21&hide_border=true" alt="Diego's Github Top Languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegozencode&show_icons=true&hide=stars&line_height=20&count_private=true&title_color=20d6fe&text_color=c9cacc&icon_color=20d6fe&custom_title=Diego's%20GitHub%20Stats&hide_rank=true&bg_color=DEG,000000,1d1f21&hide_border=true&include_all_commits=true" alt="Diego's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=diegozencode&title_color=20d6fe&text_color=c9cacc&icon_color=20d6fe&bg_color=DEG,000000,1d1f21&hide_border=true&line_height=20" alt="Diego's GitHub Wakatime" />
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
@@ -48,3 +49,4 @@ Apart from coding, I also maintain a blog, you can find it at [<img src="https:/
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- bg_color=1d1f21 -->
