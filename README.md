@@ -5,10 +5,10 @@ My name is Diego Monroy and I work as a Web Developer, I'm from Colombia and I'm
 - 🔭 I’m currently working as a web developer, and on my personal brand
 - 🌱 I’m currently studying at Holberton School, and I'm learning React
 - 😄 I'm balanced, observant, centered, and amiable
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://diegozencode.github.io/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/diegozencode)
-[<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/diegozencode)
-[<img src="https://img.shields.io/badge/CodersRank-67A4AC.svg?&style=plastic&logo=codersrank&logoColor=white"/>](https://profile.codersrank.io/user/diegozencode)
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://diegozencode.me/)
+  [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/diegozencode)
+  [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/diegozencode)
+  [<img src="https://img.shields.io/badge/CodersRank-67A4AC.svg?&style=plastic&logo=codersrank&logoColor=white"/>](https://profile.codersrank.io/user/diegozencode)
 
 ---
 
@@ -38,9 +38,15 @@ Apart from coding, I also maintain a blog, you can find it here [<img src="https
 ---
 
 ## Github Stats:chart_with_upwards_trend:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegozencode&langs_count=5&title_color=ffffff&text_color=c9cacc&card_width=250&icon_color=2bbc8a&bg_color=DEG,000000,1d1f21&hide_border=true" alt="Diego's Github Top Languages"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegozencode&show_icons=true&hide=stars&line_height=20&count_private=true&title_color=20d6fe&text_color=c9cacc&icon_color=20d6fe&custom_title=Diego's%20GitHub%20Stats&hide_rank=true&bg_color=DEG,000000,1d1f21&hide_border=true&include_all_commits=true" alt="Diego's GitHub Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=diegozencode&title_color=20d6fe&text_color=c9cacc&icon_color=20d6fe&bg_color=DEG,000000,1d1f21&hide_border=true&line_height=20" alt="Diego's GitHub Wakatime" />
+
+[![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=diegozencode&langs_count=5&title_color=ffffff&text_color=c9cacc&card_width=250&icon_color=2bbc8a&bg_color=DEG,000000,1d1f21&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diegozencode&show_icons=true&hide=stars&line_height=20&count_private=true&title_color=20d6fe&text_color=c9cacc&icon_color=20d6fe&custom_title=Diego's%20GitHub%20Stats&hide_rank=true&bg_color=DEG,000000,1d1f21&hide_border=true&include_all_commits=true" alt="Diego's GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=diegozencode&title_color=20d6fe&text_color=c9cacc&icon_color=20d6fe&bg_color=DEG,000000,1d1f21&hide_border=true&line_height=20" alt="Diego's GitHub Wakatime" />
+</a>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
