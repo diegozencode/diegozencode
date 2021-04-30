@@ -33,7 +33,7 @@ My name is Diego Monroy and I work as a Web Developer, I'm from Colombia and I'm
 
 ## Blog:pencil:
 
-Apart from coding, I also maintain a blog, you can find it here [<img src="https://img.shields.io/badge/Blog-30d0ff.svg?&style=plastic"/>](https://diegozencode.me/blog/) as well as on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@diegozencode)
+Apart from coding, I also maintain a blog related to front-end topics, you can find it here [<img src="https://img.shields.io/badge/Blog-30d0ff.svg?&style=plastic"/>](https://diegozencode.me/myblog/) as well as some other publications on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@diegozencode)
 
 ---
 
@@ -46,7 +46,7 @@ Apart from coding, I also maintain a blog, you can find it here [<img src="https
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=diegozencode&hide_border=true&background=1d1f21&stroke=20d6fe&ring=20d6fe&fire=2191b2&dates=808080&currStreakNum=c9cacc&currStreakLabel=20d6fe&sideNums=c9cacc&sideLabels=2191b2" alt="Diego's GitHub Streak Stats" />
 </a>
 
-[![Diego's GitHub Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=diegozencode&title_color=20d6fe&text_color=c9cacc&icon_color=20d6fe&bg_color=1d1f21&hide_border=true&custom_title=Diego's%20Wakatime%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Diego's GitHub Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=diegozencode&title_color=20d6fe&text_color=c9cacc&icon_color=20d6fe&langs_count=6&bg_color=1d1f21&hide_border=true&custom_title=Diego's%20Wakatime%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
