@@ -32,7 +32,7 @@ My name is Diego Monroy and I work as a Web Developer, I'm from Colombia and I'm
 
 ## Blog:pencil:
 
-Apart from coding, I also maintain a blog related to front-end topics, you can find it here [<img src="https://img.shields.io/badge/Blog-30d0ff.svg?&style=plastic"/>](https://diegozencode.me/myblog/) as well as some other publications on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@diegozencode)
+Apart from coding, I also maintain a blog related to front-end topics, you can find it here [<img src="https://img.shields.io/badge/Blog-30d0ff.svg?&style=plastic"/>](https://diegozencode.gitlab.io/myblog/) as well as some other publications on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@diegozencode)
 
 ---
 
