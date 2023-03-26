@@ -1,13 +1,13 @@
 # Hi there <img src="assets/wave.gif" width="40">
 
-My name is Diego Monroy and I work as a Web Developer, I'm from Colombia and I'm looking for remote opportunities.
+A little bit about myself, my name is Diego Monroy, I'm from Colombia, you can find me online as @diegozencode, and my experience is in Frontend development.
 
-- 🔭 I’m currently working as a web developer
-- 🌱 I’m currently learning Front-End Technologies
-- 😄 I'm balanced, observant, centered, and amiable
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://diegozencode.me/)
+- 🔭 I’m currently mastering frontend development.
+- 🌱 Curios about new technologies and understanding the fundamentals.
+- 😄 Check out my portfolio [<img src="https://img.shields.io/badge/Click here-20d6fe.svg?&style=plastic"/>](https://portfolio.diegozencode.com/).
+- 📫 Feel free to reach me:
   [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/diegozencode)
-  [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/diegozencode)
+  [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/diegozencode).
 
 ---
 
@@ -32,7 +32,7 @@ My name is Diego Monroy and I work as a Web Developer, I'm from Colombia and I'm
 
 ## Blog:pencil:
 
-Apart from coding, I also maintain a blog related to front-end topics, you can find it here [<img src="https://img.shields.io/badge/Blog-30d0ff.svg?&style=plastic"/>](https://diegozencode.gitlab.io/myblog/) as well as some other publications on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@diegozencode)
+Apart from coding, I also maintain a [<img src="https://img.shields.io/badge/Tech blog-30d0ff.svg?&style=plastic"/>](https://blog.diegozencode.com/) as well as some other publications on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@diegozencode)
 
 ---
 
