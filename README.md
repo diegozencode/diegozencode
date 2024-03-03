@@ -10,7 +10,23 @@ I am a 70% Frontend Developer and 30% Backend Developer. My curiosity drives me 
 
 ---
 
-## Technologies & Tools:computer:
+## Technologies & Tools 💻
+
+<details>
+  <summary><b>Technologies & Tools 💻</b></summary>
+  <p>
+    Category | Technology
+    --- | ---
+    `Frontend` | React
+  </p>
+</details>
+
+<details>
+  <summary><b>Stats 📈</b></summary>
+  <p>
+    test 2
+  </p>
+</details>
 
 [![HTML5](https://img.shields.io/badge/≡-HTML5-E34F26?&style=flat-square&logo=html5&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Git](https://img.shields.io/badge/≡-Git-F05032?logo=git&style=flat-square&labelColor=282828)](https://git-scm.com/)
@@ -29,7 +45,7 @@ I am a 70% Frontend Developer and 30% Backend Developer. My curiosity drives me 
 
 ---
 
-## Github Stats:chart_with_upwards_trend:
+## Github Stats 📈
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegozencode&langs_count=5&title_color=20d6fe&text_color=c9cacc&card_width=250&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" alt="Diego's GitHub Language Stats" />
