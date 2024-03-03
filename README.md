@@ -1,4 +1,4 @@
-# Hi there <img src="assets/wave.gif" width="40">
+# Hi there, I'm Diego <img src="assets/wave.gif" width="40">
 
 A little bit about myself, my name is Diego Monroy, I'm from Colombia, you can find me online as @diegozencode, and my experience is in Frontend development.
 
