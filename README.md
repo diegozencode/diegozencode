@@ -6,14 +6,7 @@
   <a href="https://twitter.com/diegozencode" title="Twitter - @diegozencode"><img src="https://img.shields.io/badge/-@diegozencode-000000?style=flat&logo=X&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/diegozencode/" title="LinkedIn - Diego Felipe Monroy"><img src="https://img.shields.io/badge/-@diegozencode-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a> | <a href="https://portfolio.diegozencode.com/" title="Personal Website - diegozencode.com"><img src="https://img.shields.io/badge/-diegozencode.com-4EAA25?style=flat&logo=Paperswithcode&logoColor=white"/></a>
 </p>
 
-A little bit about myself, my name is Diego Monroy, I'm from Colombia, you can find me online as @diegozencode, and my experience is in Frontend development.
-
-- 🔭 I’m currently mastering frontend development.
-- 🌱 Curios about new technologies and understanding the fundamentals.
-- 😄 Check out my portfolio [<img src="https://img.shields.io/badge/Click here-20d6fe.svg?&style=plastic"/>](https://portfolio.diegozencode.com/).
-- 📫 Feel free to reach me:
-  [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://twitter.com/diegozencode)
-  [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/diegozencode).
+I am a 70% Frontend Developer and 30% Backend Developer. My curiosity drives me to explore new technologies, while my commitment to understanding the fundamentals ensures robust solutions. I am detail-oriented, and my passion for code and personal development fuels my journey in the ever-evolving world of software.
 
 ---
 
@@ -33,12 +26,6 @@ A little bit about myself, my name is Diego Monroy, I'm from Colombia, you can f
 [![C](https://img.shields.io/badge/≡-Language-A8B9CC?logo=C&style=flat-square&labelColor=282828)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 [![PHP](https://img.shields.io/badge/≡-PHP-777BB4?logo=php&style=flat-square&labelColor=282828)](https://www.php.net/)
 [![Bootstrap](https://img.shields.io/badge/≡-Bootstrap-7952B3?logo=bootstrap&style=flat-square&labelColor=282828)](https://getbootstrap.com/)
-
----
-
-## Blog:pencil:
-
-Apart from coding, I also maintain a [<img src="https://img.shields.io/badge/Tech blog-30d0ff.svg?&style=plastic"/>](https://blog.diegozencode.com/) as well as some other publications on [<img src="https://img.shields.io/badge/Medium-12100E.svg?&style=plastic&logo=medium&logoColor=white"/>](https://medium.com/@diegozencode)
 
 ---
 
