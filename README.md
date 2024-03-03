@@ -1,4 +1,10 @@
-# Hi there, I'm Diego <img src="assets/wave.gif" width="40">
+<!-- Title -->
+<h1 align="center">Hi there, I'm Diego <img src="assets/wave.gif" width="40"></h1>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://twitter.com/diegozencode" title="Twitter - @diegozencode"><img src="https://img.shields.io/badge/-@diegozencode-000000?style=flat&logo=X&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/diegozencode/" title="LinkedIn - Diego Felipe Monroy"><img src="https://img.shields.io/badge/-@diegozencode-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a> | <a href="https://portfolio.diegozencode.com/" title="Personal Website - diegozencode.com"><img src="https://img.shields.io/badge/-diegozencode.com-4EAA25?style=flat&logo=Paperswithcode&logoColor=white"/></a>
+</p>
 
 A little bit about myself, my name is Diego Monroy, I'm from Colombia, you can find me online as @diegozencode, and my experience is in Frontend development.
 
