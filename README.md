@@ -6,7 +6,7 @@
   <a href="https://twitter.com/diegozencode" title="Twitter - @diegozencode"><img src="https://img.shields.io/badge/-@diegozencode-000000?style=flat&logo=X&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/diegozencode/" title="LinkedIn - Diego Felipe Monroy"><img src="https://img.shields.io/badge/-@diegozencode-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a> | <a href="https://diegozencode.com/" title="Personal Website - diegozencode.com"><img src="https://img.shields.io/badge/-diegozencode.com-4EAA25?style=flat&logo=Paperswithcode&logoColor=white"/></a>
 </p>
 
-I am a 60% front-end developer and 40% back-end developer. My curiosity drives me to explore new technologies, and I'm committed to understanding the fundamentals. I am detail-oriented, and my passion for code and personal development fuels my journey in the ever-evolving world of software.
+I am a front-end developer (60%) and back-end developer (40%) back-end developer. My curiosity drives me to explore new technologies, and I'm committed to understanding the fundamentals. I am detail-oriented, and my passion for code and personal development fuels my journey in the ever-evolving world of software.
 
 ---
 
