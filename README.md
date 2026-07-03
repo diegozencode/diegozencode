@@ -3,7 +3,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://twitter.com/diegozencode" title="Twitter - @diegozencode"><img src="https://img.shields.io/badge/-@diegozencode-000000?style=flat&logo=X&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/diegozencode/" title="LinkedIn - Diego Felipe Monroy"><img src="https://img.shields.io/badge/-@diegozencode-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a> | <a href="https://diegozencode.com/" title="Personal Website - diegozencode.com"><img src="https://img.shields.io/badge/-diegozencode.com-4EAA25?style=flat&logo=Paperswithcode&logoColor=white"/></a>| <a href="https://spiritual-renegades.com" title="Spiritual Renegades"><img src="https://img.shields.io/badge/-Spiritual Renegades-1C1C1C?style=flat"/></a>
+  <a href="https://twitter.com/diegozencode" title="Twitter - @diegozencode"><img src="https://img.shields.io/badge/-@diegozencode-000000?style=flat&logo=X&logoColor=white"/></a> | <a href="https://www.linkedin.com/in/diegozencode/" title="LinkedIn - Diego Felipe Monroy"><img src="https://img.shields.io/badge/-@diegozencode-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a> | <a href="https://diegozencode.com/" title="Personal Website - diegozencode.com"><img src="https://img.shields.io/badge/-diegozencode.com-4EAA25?style=flat&logo=Paperswithcode&logoColor=white"/></a> | <a href="https://spiritual-renegades.com" title="Spiritual Renegades"><img src="https://img.shields.io/badge/-Spiritual Renegades-1C1C1C?style=flat"/></a>
 </p>
 
 Simplicity is the key🍃
@@ -29,7 +29,7 @@ Simplicity is the key🍃
   <summary><b>GitHub Stats</b></summary>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegozencode&layout=compact&langs_count=6&title_color=20d6fe&text_color=c9cacc&card_width=250&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" alt="Diego's GitHub Language Stats" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=diegozencode&layout=compact&langs_count=6&title_color=20d6fe&text_color=c9cacc&card_width=250&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" alt="Diego's GitHub Language Stats" />
 </a>
   </p>
 </details>
